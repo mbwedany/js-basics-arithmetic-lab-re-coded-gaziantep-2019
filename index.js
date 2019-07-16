@@ -8,4 +8,4 @@ let random = Math.random();
 
 let mod = 68 % 64;
 
-let max = Math.max();
+let max = Math.max(20);
